@@ -1,4 +1,3 @@
-import { FaAdversal } from "react-icons/fa";
 
 import styles from './styles.module.scss'
 
